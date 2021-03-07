@@ -1,5 +1,7 @@
 # JB Code Challenge optional foundation (Code name "Umbrella")
 
+**Participant**: Esge
+
 Optional foundation project for the JB code challenge. The project consists of a frontend and a backend template. Feel free to use the template and change whatever you prefer to solve the challenge.
 
 ## Build and run backend
